@@ -1,5 +1,5 @@
-<h1 align="center">Oi pessoal, eu sou a Raíssa! 🖤</h1>
-<h3 align="center">Uma dev web nativa do Sul de Minas Gerais, morando em São Paulo.</h3>
+<h3 align="center">Oi pessoal, eu sou a Raíssa! 🖤</h3>
+<h4 align="center">Uma dev web nativa do Sul de Minas Gerais, morando em São Paulo.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
