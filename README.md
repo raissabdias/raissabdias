@@ -31,3 +31,10 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
+
+### 📊 Minha Frequência
+
+<div align="center">
+  <img src="https://github.com/raissabdias/raissabdias/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
