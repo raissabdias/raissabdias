@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Bem-vinda+ao+meu+Perfil" alt="Banner" width="100%">
-</div>
-
-<br/>
-
-<div align="center">
   
   # Olá, eu sou a Raíssa! 👋
   ### Desenvolvedora Web FullStack
@@ -37,13 +31,3 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raissabdias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raissabdias&layout=compact&theme=dracula"/>
-  </a>
-</div>
